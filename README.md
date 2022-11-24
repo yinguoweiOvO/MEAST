@@ -7,4 +7,4 @@ The images of VIN detection demo are follows.
 ![image](./demo_img/single_detect.png)
 ![image](./demo_img/multi_detect.png)
 ![image](./demo_img/result_detect.png)
-![image](./demo_img/crop.png)
+![image](./demo_img/result_crop.png)
