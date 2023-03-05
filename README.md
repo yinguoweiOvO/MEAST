@@ -11,5 +11,5 @@ The images of VIN detection demo are follows.
 
 Below is a demo video of the APP running in mobile phone.
 <video width="320" height="240" controls>
-    <source src="demo_video.mp4" type="video/mp4">
+    <source src="./demo_video.mp4" type="video/mp4">
 </video>
