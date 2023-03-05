@@ -8,3 +8,5 @@ The images of VIN detection demo are follows.
 ![image](./demo_img/multi_detect.png)
 ![image](./demo_img/result_detect.png)
 ![image](./demo_img/result_crop.png)
+
+Below is a demo video of the APP running in mobile phone.
